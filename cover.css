@@ -27,10 +27,10 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image: url("bg.jpg");
+  /* background-image: url("bg.jpg");
   background-color: #ffffff;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
 }
 
 body {
